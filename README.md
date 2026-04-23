@@ -1,4 +1,5 @@
 # lab3
+## [Задание](https://github.com/ITMOPython-2022/Lab-3)
 ## Запуск main.py
 ## Файлы music.mp3 и window.png должны находиться в одной папке с main.py!
 - команда для установки pygame: pip install pygame-ce
